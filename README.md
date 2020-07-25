@@ -1,6 +1,6 @@
 # week_6_IP
 
-#### {Brief description of application}, {Date of current version}
+
 #### By **JANE JEPKEMBOI**
 #  colab
 
@@ -25,14 +25,14 @@ atom .
 some lines of code may not run, or the output changes when you re run the code. 
 no known bugs for now.
 ## Technologies Used
-{python pandas.
+python pandas.
 polynomial regression
-logistic regression}
+logistic regression
 ## Support and contact details
-{for email reach us through jepkemboijane95@gmail.com.}
+for email reach us through jepkemboijane95@gmail.com.
 for email reach us through jepkemboijane95@gmail.com.
 ### License
-*{MIT License.}*
-Copyright (c) {2020} **{jane jepkemboi}**
+*MIT License.*
+Copyright (c) 2020 **jane jepkemboi**
 *MIT License.*
 Copyright (c) 2020 **jane jepkemboi**
