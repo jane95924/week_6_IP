@@ -1,12 +1,12 @@
 # week_6_IP
 
 #### {Brief description of application}, {Date of current version}
-#### By **{JANE JEPKEMBOI}**
-# pandas colab
+#### By **JANE JEPKEMBOI**
+#  colab
 
 #### By **JANE JEPKEMBOI**
 ## Description
-{create a model that predicts the outcomes of two teams, team 1 and team 2. we are using two approaches, logistic regression and polynomial regression. the modelling is done on google colab and saved on github. }
+create a model that predicts the outcomes of two teams, team 1 and team 2. we are using two approaches, logistic regression and polynomial regression. the modelling is done on google colab and saved on github. 
  
 ## Setup/Installation Requirements
 * 
@@ -19,10 +19,10 @@ https://github.com/jane95924/week_6_IP
 
 open atom 
 
-atom .}
 atom .
+
 ## Known Bugs
-{some lines of code may not run, or the output changes when you re run the code. }
+some lines of code may not run, or the output changes when you re run the code. 
 no known bugs for now.
 ## Technologies Used
 {python pandas.
